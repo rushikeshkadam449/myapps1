@@ -8,14 +8,11 @@ function sub(p1,p2){
 }
 sub(10,7)
 
-<<<<<<< HEAD
 function square(num){
     console.log(`${num}=${num* num}`)
 }
 square(7)
-=======
 function cube(num){
     console.log(`${num}=${num* num *num}`)
 }
 cube(7)
->>>>>>> cube
